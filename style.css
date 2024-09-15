@@ -15,7 +15,7 @@ body {
 }
 
 .flex-item{
-    background: rgb(134, 63, 63);
+    background: rgb(214, 205, 205);
     border: 1pt solid rgb(18, 4, 4);
     width: 10px;
     transition: 0.1s all ease;
